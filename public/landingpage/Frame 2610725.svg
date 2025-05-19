@@ -1,0 +1,22 @@
+<svg width="91" height="90" viewBox="0 0 91 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2" y="15" width="73" height="73" rx="4" stroke="#225FA8" stroke-width="4"/>
+<rect width="77" height="18" transform="translate(0 13)" fill="#225FA8"/>
+<rect width="9" height="9" transform="translate(25 40)" fill="#225FA8"/>
+<rect width="9" height="9" transform="translate(40 40)" fill="#225FA8"/>
+<rect width="9" height="9" transform="translate(10 55)" fill="#225FA8"/>
+<rect width="9" height="9" transform="translate(10 70)" fill="#225FA8"/>
+<rect width="9" height="9" transform="translate(25 55)" fill="#225FA8"/>
+<rect width="9" height="9" transform="translate(25 70)" fill="#225FA8"/>
+<rect width="9" height="9" transform="translate(55 40)" fill="#225FA8"/>
+<path d="M10.5 3L10.5 17" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<path d="M10.5 6.99365V17.0074" stroke="#225FA8" stroke-width="4" stroke-linecap="round"/>
+<path d="M24.5 3L24.5 17" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<path d="M24.5 6.99365V17.0074" stroke="#225FA8" stroke-width="4" stroke-linecap="round"/>
+<path d="M38.5 3L38.5 17" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<path d="M38.5 6.99365V17.0074" stroke="#225FA8" stroke-width="4" stroke-linecap="round"/>
+<path d="M52.5 3L52.5 17" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<path d="M52.5 6.99365V17.0074" stroke="#225FA8" stroke-width="4" stroke-linecap="round"/>
+<path d="M66.5 3L66.5 17" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<path d="M66.5 6.99365V17.0074" stroke="#225FA8" stroke-width="4" stroke-linecap="round"/>
+<path d="M47 63L58 73L82.5 46" stroke="#7DC3F2" stroke-width="11" stroke-linecap="square"/>
+</svg>
