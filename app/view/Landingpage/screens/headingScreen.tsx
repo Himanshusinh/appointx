@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from '../../ui/Button'
 import Image from 'next/image';
-
+import InvoiceTable from '../components/InvoiceTable';
 
 
 
@@ -62,8 +62,9 @@ const HeadingScreen = () => {
         {/* bottom */}
         
       </div>
-      <div className='-mt-64 ml-64 z-30'>
-          <Image alt='image' width={600} height={200} src="/landingpage/Frame 2610641.png" />
+      <div className='-mt-64 mr-[500px] z-50'>
+          {/* <Image alt='image' width={600} height={200} src="/landingpage/Frame 2610641.png" /> */}
+          <InvoiceTable /> 
         </div>
     </div>
   )

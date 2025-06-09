@@ -4,6 +4,7 @@ import Search from './view/search/page'
 import Bookingpage from './view/Bookingpage/page'
 import Profile from './view/profile/page'
 import ClientProfile from './view/clientprofilepage/page'
+import Signup from './view/signup/page'
 
 
 
@@ -19,7 +20,8 @@ const page = () => {
         {/* <Search /> */}
         {/* <Bookingpage /> */}
         {/* <Profile /> */}
-        <ClientProfile />
+        {/* <ClientProfile /> */}
+        <Signup />
 
     </div>
   )

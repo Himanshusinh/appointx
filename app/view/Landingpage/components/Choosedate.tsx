@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import Calender from '../../clientprofilepage/components/Calender'
 
 const Choosedate = () => {
   return (
@@ -24,13 +25,17 @@ const Choosedate = () => {
   />
 
   {/* Right card (calendar) */}
-  <Image
+    <div className='bg-white rounded-2xl z-20 ml-44'>
+    <Calender />
+    </div>
+
+  {/* <Image
     alt="calendar"
     src="/Landingpage/Frame 2610695.png"
     width={300}
     height={300}
     className="absolute top-20 left-10 z-10 ml-20"
-  />
+  /> */}
 </div>
 
     </div>

@@ -10,21 +10,21 @@ const cards = [
       address: '123, Anywhere St, Any City',
       price: 30,
       image: '/landingpage/Ellipse 10.png',
-      bgColor: 'bg-white',
+      bgColor: '#283138',
     },
     {
       title: 'Yoga Session',
       address: '123, Anywhere St, Any City',
       price: 80,
       image: '/landingpage/Ellipse 11.png',
-      bgColor: 'bg-blue-700',
+      bgColor: '#302A9B',
     },
     {
       title: 'Nail Studio',
       address: '123, Anywhere St, Any City',
       price: 10,
       image: '/landingpage/Ellipse 12.png',
-      bgColor: 'bg-gray-800',
+      bgColor: '#E5EAF2',
     },
   ]
   

@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div className='bg-[#1C3B69] text-white flex flex-col justify-center items-center font-poppins mt-20 ' >
 
-            <div className='-mt-8 bg-white text-black font-clash text-2xl  p-4 rounded-2xl'>
+            <div className='-mt-8 bg-white text-black font-clash text-2xl  p-4 rounded-2xl border border-[#DCE6F2]'>
                 <p className=''>Its very easy to make an appointment now <button className='font-poppins text-lg border-2 rounded-4xl p-2 ml-8 hover:bg-black hover:text-white'>Make appointment</button></p>
             </div>
 

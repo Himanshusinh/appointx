@@ -4,8 +4,9 @@ const DashBoardHeader = () => {
   return (
     <div>
         <div className='flex flex-col'>
-            <span className='font-clash text-3xl'>Welcome Back, Himanshu</span>
-            <span className='font-poppins text-[#707070]'>Home > Dashboard</span>
+        <span className='font-poppins text-[#707070]'>Home > Dashboard</span>
+        <span className='font-clash text-2xl mt-5'>Welcome Back, Himanshu </span>
+            
         </div>
 
 
