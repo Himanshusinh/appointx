@@ -5,6 +5,8 @@ import Bookingpage from './view/Bookingpage/page'
 import Profile from './view/profile/page'
 import ClientProfile from './view/clientprofilepage/page'
 import Signup from './view/signup/page'
+import VendorSignup from './view/vendorsignup/page'
+
 
 
 
@@ -21,7 +23,8 @@ const page = () => {
         {/* <Bookingpage /> */}
         {/* <Profile /> */}
         {/* <ClientProfile /> */}
-        <Signup />
+        {/* <Signup /> */}
+        <VendorSignup />
 
     </div>
   )
