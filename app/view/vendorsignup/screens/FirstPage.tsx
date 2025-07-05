@@ -1,9 +1,23 @@
+'use client';
+
 import React from 'react'
 import Image from 'next/image'
 import VendorInput from '../components/VendorInput'
 import UploadButton from '../components/UploadButton'
+import { useRouter } from 'next/navigation'
+import ThirdPage from './ThirdPage';
+
+
+
+
 
 const FirstPage = () => {
+    const route = useRouter();
+
+    const next = () => {   
+             route.push('./ThirdPage.tsx')
+    }
+
   return (
     <div>
         <div style={{ backgroundImage: "url('/signup/ClientSignup.png')" }} className='bg-cover justify-center flex items-center flex-col gap-30'>
@@ -27,9 +41,7 @@ const FirstPage = () => {
                 
             </div>
 
-            <div className='bg-[#0058E5] text-white w-[500px] h-12 rounded-2xl flex justify-center items-center'>Next</div>
-
-                
+            <div className='bg-[#0058E5] text-white w-[500px] h-12 rounded-2xl flex justify-center items-center' onClick={next}>Next</div>
             </div>
         </div>
     </div>

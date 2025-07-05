@@ -1,14 +1,14 @@
 import React from 'react'
 import FirstPage from './screens/FirstPage'
-import SecondPage from './screens/SecondPage'
-import ThirdPage from './screens/ThirdPage'
+// import SecondPage from './screens/page'
+// import ThirdPage from './screens/page'
 
 const VendorSignup = () => {
   return (
     <div>
-        {/* <FirstPage /> */}
+        <FirstPage />
         {/* <SecondPage /> */}
-        <ThirdPage />
+        {/* <ThirdPage /> */}
     </div>
   )
 }

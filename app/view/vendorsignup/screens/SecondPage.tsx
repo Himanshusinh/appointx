@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import VendorInput from '../components/VendorInput'
-import UploadButton from '../components/UploadButton'
+
 
 const SecondPage = () => {
   return (
@@ -36,8 +36,6 @@ const SecondPage = () => {
             </div>
 
             <div className='bg-[#0058E5] text-white w-[500px] h-12 rounded-2xl flex justify-center items-center'>Next</div>
-
-                
             </div>
         </div>
     </div>
